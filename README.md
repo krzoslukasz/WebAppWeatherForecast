@@ -1,6 +1,6 @@
 # WebAppWeatherForecast
 ## Description of the application
-The application provides requests for data from the website https://danepubliczne.imgw.pl/pl/apiinfo.
+The application provides requests for synoptic data from the website https://danepubliczne.imgw.pl/pl/apiinfo.
 
 ## Tools and technologies
 * Visual Studio 2022
